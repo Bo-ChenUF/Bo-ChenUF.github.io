@@ -11,7 +11,7 @@ author_profile: true
 
 <img 
 src="/images/differential_privacy_in_cooperative_multiagent_planning_results_screenshot.png" 
-width=400 
+width=600 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
 **Abstract:** Privacy-aware multiagent systems must protect agents’ sensitive data while simultaneously ensuring that agents accomplish their shared objectives. Towards this goal, we propose a framework to privatize inter-agent communications in cooperative multiagent decision-making problems. We study sequential decision-making problems formulated as cooperative Markov games with reach-avoid objectives. We apply a differential privacy mechanism to privatize agents’ communicated symbolic state trajectories, and analyze tradeoffs between the strength of privacy and the team’s performance. For a given level of privacy, this tradeoff is shown to depend critically upon the total correlation among agents’ state-action processes. We synthesize policies that are robust to privacy by reducing the value of the total correlation. Numerical experiments demonstrate that the team’s performance under these policies decreases by only 6 percent when comparing private versus non-private implementations of communication. By contrast, the team’s performance decreases by 88 percent when using baseline policies that ignore total correlation and only optimize team performance.
