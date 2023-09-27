@@ -39,7 +39,7 @@ Data-driven systems are gathering increasing amounts of data from users, and sen
 
 **[The Bounded Gaussian Mechanism for Differential Privacy](../_publications/2022_The_Bounded_Gaussian_Mechanism_for_Differential_Privacy.md)**
 
-**Bo Chen**, and Matthew Hale<br><span style="font-size:12pt"> Under Review. *Journal of Privacy and Confidentiality.*</span><br>
+**Bo Chen**, and Matthew Hale<br><span style="font-size:12pt"> Accepted by *Journal of Privacy and Confidentiality.*</span><br>
 
 <img 
 src="/images/bounds_compare.png" 
