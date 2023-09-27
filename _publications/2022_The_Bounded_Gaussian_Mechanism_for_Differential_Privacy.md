@@ -5,7 +5,7 @@ permalink: /_publications/2022_The_Bounded_Gaussian_Mechanism_for_Differential_P
 author_profile: true
 ---
 
-**Bo Chen**, and Matthew Hale<br><span style="font-size:12pt">Under Review. *Journal of Privacy and Confidentiality.*</span><br>
+**Bo Chen**, and Matthew Hale<br><span style="font-size:12pt">Accepted by *Journal of Privacy and Confidentiality.*</span><br>
 
 [Paper](https://arxiv.org/pdf/2211.17230.pdf)
 
