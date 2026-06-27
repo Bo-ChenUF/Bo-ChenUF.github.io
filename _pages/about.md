@@ -17,11 +17,11 @@ If you’re interested in learning more, click [here](../_pages/publications.md)
 
 News
 ======
-<b>[May 12th, 2026]<b> I am happy to announce that I am joining ByteDance as a privacy engineer! I truly appreciate everyone I met at Geotab, I've learn a lot from y'all! I hope all the best in your future endeavors!
+<b>[May 12th, 2026]:</b> I am happy to announce that I am joining ByteDance as a privacy engineer! I truly appreciate everyone I met at Geotab, I've learn a lot from y'all! I hope all the best in your future endeavors!
 
-<b>[Jan. 6th 2025]:<b> I am happy to share that I am joining Geotab as a data scientist! Huge thanks to my advisor Dr. Matthew Hale for the help and support along my journey in acedemia! 
+<b>[Jan. 6th 2025]:</b> I am happy to share that I am joining Geotab as a data scientist! Huge thanks to my advisor Dr. Matthew Hale for the help and support along my journey in acedemia! 
 
-<b>[May 9th, 2024]:<b> I am happy to share that I successfully defended my Ph.D. dissertation, and I am joining Georgia Tech as a Postdoc!
+<b>[May 9th, 2024]:</b> I am happy to share that I successfully defended my Ph.D. dissertation, and I am joining Georgia Tech as a Postdoc!
 
 <b>[Aug 1st, 2023]:</b> My labmate [Calvin Hawkins](https://scholar.google.com/citations?user=hDJrB44AAAAJ&hl=en) and I gave a poster talk at the Conference on Uncertainty in Artificial Intelligence (UAI) on our paper, "[Differential Privacy in Cooperative Multiagent Planning](../_publications/2023_Differential_Privacy_in_Cooperative_Multiagent_Planning.md)" (coauthored with [Mustafa O. Karabag](https://scholar.google.com/citations?user=PbKuWIwAAAAJ&hl=en), [Cyrus Neary](https://www.cyrusneary.com/), [Matthew Hale](https://corelab.mae.ufl.edu/hale.html), and [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page)).
 
